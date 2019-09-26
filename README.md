@@ -1,12 +1,6 @@
 # Linux - Ein Open Source Betriebssystem
 
-## Linux - Eine Einführung <a id="linux---eine-einf&#xFC;hrung"></a>
+## Sinn und Zweck dieses GitBooks
 
-[Was ist Linux?↓](/chapter1/was-ist-linux.md)
-
-[Die Geschichte von Linux↓](/chapter1/die-geschichte-von-linux.md)
-
-[Open-Source-Lizensierung↓](/chapter1/open-source-lizensierung.md)
-
-[Hardware-Unterstützung↓](/chapter1/hardware-unterstutzung.md)
+Dieses GitBook soll für Einsteiger einen Überblick über die Funktionsweise und Leistungsfähigkeit des Betriebssystems Linux bieten. Die vielfältigen Themenbereiche sind oftmals nur angeschnitten und sollen zur Eigenrecherche anregen.
 
