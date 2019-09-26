@@ -1,6 +1,8 @@
 # Verschiedenste Distributionen
 
-[Beschreibung gängiger Linux-Distributionen↓](/kapitel-1-installation/verschiedene-distributionen/gangige-linux-distributionen.md)
+Beschreibung gängiger Linux-Distributionen↓
+
+{% page-ref page="./" %}
 
 [Graphische Übersicht über die verschiedenen Distributionen↓](/kapitel-1-installation/verschiedene-distributionen/graphische-ubersicht-uber-die-verschiedenen-distributionen.md)
 
