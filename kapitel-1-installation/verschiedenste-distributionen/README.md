@@ -1,6 +1,6 @@
 # Verschiedenste Distributionen
 
-[Beschreibung gängiger Linux-Distributionen↓](https://peter-emmerling.gitbook.io/linux-documentation/kapitel-1/installation/verschiedenste-distributionen/linux-distributionen-graphische-uebersicht)
+[Beschreibung gängiger Linux-Distributionen↓](gaengige-linux-distributionen.md)
 
 [Graphische Übersicht über die verschiedenen Distributionen↓](linux-distributionen-graphische-uebersicht.md)
 
